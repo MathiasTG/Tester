@@ -7,5 +7,6 @@ public class Main {
         Account a1 = new Account();
         Account a2 = new Account();
         System.out.println(Account.getNextAccountID());
+        System.out.println("this is a new line or testing");
     }
 }
